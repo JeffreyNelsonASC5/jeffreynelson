@@ -1,0 +1,108 @@
+body{
+    color:black;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    background: linear-gradient(red,white,black);
+}
+/* .auto-spaced-linear {
+    background: linear-gradient(red, white, black);
+  } */
+
+#zero{
+    color:black;
+    text-decoration: underline dashed black;
+}
+
+#first{
+    color: red;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+img{
+    width: 300px;
+    height: 450px;
+    display: flex;
+    align-items: flex-start;
+}
+#thirdjr{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+}
+#third{
+    font-family: 'Indie Flower', cursive;
+    text-align: left;
+    color: black;
+    text-indent: 25px;
+}
+#thirdthethird{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+}
+#third3{
+    font-family: 'Indie Flower', cursive;
+    text-align: left;
+    color: black;
+    text-indent: 25px;
+}
+#thirdthefourth{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
+#third4{
+    font-family: 'Indie Flower', cursive;
+    text-align: left;
+    color: red;
+    text-indent: 25px;
+}
+#thirdthefifth{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+}
+#third5{
+    font-family: 'Indie Flower', cursive;
+    text-align: left;
+    color: black;
+    text-indent: 25px;
+}
+li{
+    font-family: 'Indie Flower', cursive;
+    text-align: left;
+    color: red;
+    text-indent: 0px;
+    text-decoration: underline black;
+
+}
+#fourth{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+}
+a:visited{
+    color: white;
+}
+#fifth{
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* #second{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: flex-end;
+} */ 
