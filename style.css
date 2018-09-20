@@ -83,13 +83,15 @@ li{
     color: red;
     text-indent: 0px;
     text-decoration: underline black;
-
 }
 #fourth{
     font-family: 'Indie Flower', cursive;
     text-align: center;
     color: black;
     text-decoration: underline;
+}
+a:link{
+    color: white;
 }
 a:visited{
     color: white;
